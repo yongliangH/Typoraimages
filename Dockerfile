@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/tektoncd/pipeline:v0.34.1
+FROM gcr.io/google_containers/tektondev/pipeline-controller:v0.34.1
